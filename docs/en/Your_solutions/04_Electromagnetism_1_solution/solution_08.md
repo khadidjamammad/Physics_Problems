@@ -1,9 +1,5 @@
 ## 8. Lorentz Force
 
-A charged particle with charge $q = 2 \times 10^{-19}\,\text{C}$ and mass $m = 4 \times 10^{-27}\,\text{kg}$ enters a magnetic field of $B = 0.5\,\text{T}$ at a speed of $v = 10^6\,\text{m/s}$ perpendicular to the field. Find the magnitude of the Lorentz force.
-
----
-
 ### Step 1: Use the correct formula
 
 For a charged particle moving in a magnetic field:
@@ -58,7 +54,7 @@ $$
 
 ---
 
-### Final Answer
+### The Answer
 
 $$
 \boxed{F = 1.0 \times 10^{-13}\,\text{N}}
