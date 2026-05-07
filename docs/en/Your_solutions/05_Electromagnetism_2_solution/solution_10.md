@@ -23,3 +23,5 @@ $$v \approx 1.2396 \times 10^8 \text{ m/s}$$
 ### The Answer:
 The speed of light in a diamond is approximately **$1.24 \times 10^8 \text{ m/s}$**. 
 *(roughly 41% of its speed in a vacuum!)*
+
+<img width="1024" height="155" alt="image" src="https://github.com/user-attachments/assets/b0f19c1b-cb4f-42a5-afe1-844cb98e83a6" />
