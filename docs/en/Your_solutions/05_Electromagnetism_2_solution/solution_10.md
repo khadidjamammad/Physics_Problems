@@ -10,7 +10,7 @@ What is the speed of light in a diamond, which has an index of refraction $n = 2
 The index of refraction ($n$) is a dimensionless number that describes how fast light travels through a material compared to a vacuum. The formula is:
 $$n = \frac{c}{v}$$
 
-Out of this equation ($v$), the formula:
+Out of this equation for ($v$) the formula is:
 $$v = \frac{c}{n}$$
 
 ### Calculation:
