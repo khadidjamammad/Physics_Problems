@@ -1,7 +1,5 @@
 ## 10. Speed of Light in Media
 
-**Problem Statement:** What is the speed of light in a diamond, which has an index of refraction $n = 2.42$?
-
 ### Given Data:
 * **Index of refraction ($n$):** $2.42$
 * **Speed of light in a vacuum ($c$):** $\approx 3.00 \times 10^8 \text{ m/s}$
@@ -20,6 +18,6 @@ $$v = \frac{3.00 \times 10^8 \text{ m/s}}{2.42}$$
 Perform the division:
 $$v \approx 1.2396 \times 10^8 \text{ m/s}$$
 
-### Final Answer:
+### The Answer:
 The speed of light in a diamond is approximately **$1.24 \times 10^8 \text{ m/s}$**. 
-*(This is roughly 41% of its speed in a vacuum!)*
+*(roughly 41% of its speed in a vacuum!)*
