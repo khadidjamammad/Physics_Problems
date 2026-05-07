@@ -59,3 +59,5 @@ $$
 $$
 \boxed{F = 1.0 \times 10^{-13}\,\text{N}}
 $$
+
+<img width="397" height="428" alt="image" src="https://github.com/user-attachments/assets/059cb0fe-f0b7-48e5-8cbf-311dc187083c" />
