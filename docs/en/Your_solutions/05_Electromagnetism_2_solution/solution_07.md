@@ -20,4 +20,8 @@ The color is **Green** and the frequency is approximately **$5.45 \times 10^{14}
 
 <img width="3999" height="1538" alt="image" src="https://github.com/user-attachments/assets/e4432801-3e66-4666-af03-693e28997b99" />
 
+
+<img width="1600" height="1164" alt="image" src="https://github.com/user-attachments/assets/24e5337e-f357-4738-8dfe-bab8a36b5b47" />
+
+
 <img width="650" height="460" alt="image" src="https://github.com/user-attachments/assets/5f91a47f-6809-46b6-99e1-5727d79c131d" />
