@@ -1,6 +1,6 @@
 ## 8. EM Spectrum
 
-**Problem Statement:** List the following types of electromagnetic radiation in order of increasing wavelength: Infrared, Ultraviolet, Microwaves, X-rays, Radio waves, Gamma rays.
+List the following types of electromagnetic radiation in order of increasing wavelength: Infrared, Ultraviolet, Microwaves, X-rays, Radio waves, Gamma rays.
 
 ### Order of Increasing Wavelength:
 To list these in order of "increasing wavelength" means starting with the shortest (highest energy) and ending with the longest (lowest energy).
