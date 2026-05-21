@@ -2,37 +2,29 @@
 
 Given:
 
-- \(R_1 = 15\,\Omega\)
-- \(R_2 = 30\,\Omega\)
-- \(R_3 = 50\,\Omega\)
-- \(V = 12\,V\)
+- R1 = 15 Ω
+- R2 = 30 Ω
+- R3 = 50 Ω
+- V = 12 V
 
 ## Series Circuit
 
 Equivalent resistance:
 
-\[
-R_{eq} = R_1 + R_2 + R_3
-\]
+Req = R1 + R2 + R3
 
-\[
-R_{eq} = 15 + 30 + 50 = 95\,\Omega
-\]
+Req = 15 + 30 + 50 = 95 Ω
 
 Current:
 
-\[
-I = \frac{V}{R}
-\]
+I = V / R
 
-\[
-I = \frac{12}{95} \approx 0.126\,A
-\]
+I = 12 / 95 ≈ 0.126 A
 
 ### Final Answers (Series)
 
-- Equivalent Resistance: \(\boxed{95\,\Omega}\)
-- Current: \(\boxed{0.126\,A}\)
+- Equivalent Resistance: 95 Ω
+- Current: 0.126 A
 
 ---
 
@@ -40,29 +32,19 @@ I = \frac{12}{95} \approx 0.126\,A
 
 Equivalent resistance:
 
-\[
-\frac{1}{R_{eq}} = \frac{1}{15} + \frac{1}{30} + \frac{1}{50}
-\]
+1/Req = 1/15 + 1/30 + 1/50
 
-\[
-\frac{1}{R_{eq}} \approx 0.1133
-\]
+1/Req ≈ 0.1133
 
-\[
-R_{eq} \approx 8.82\,\Omega
-\]
+Req ≈ 8.82 Ω
 
 Current:
 
-\[
-I = \frac{V}{R}
-\]
+I = V / R
 
-\[
-I = \frac{12}{8.82} \approx 1.36\,A
-\]
+I = 12 / 8.82 ≈ 1.36 A
 
 ### Final Answers (Parallel)
 
-- Equivalent Resistance: \(\boxed{8.82\,\Omega}\)
-- Current: \(\boxed{1.36\,A}\)
+- Equivalent Resistance: 8.82 Ω
+- Current: 1.36 A
