@@ -36,7 +36,7 @@ https://www.falstad.com/circuit/circuitjs.html?ctz=DwYwlgTgBAZgvAIgIwKgFwM6IAwDp
 
 Equivalent resistance:
 
-1/Req = 1/15 + 1/30 + 1/50
+1/Req = [1/15 + 1/30] + 1/50
 
 1/Req ≈ 0.1133
 
