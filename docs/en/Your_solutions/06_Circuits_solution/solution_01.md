@@ -38,20 +38,20 @@ Equivalent resistance:
 
 1/Req = [1/15 + 1/30] + 1/50
 
-1/Req ≈ 0.1133
+1/Req ≈ 0.12
 
-Req ≈ 8.82 Ω
+Req ≈ 8.33 Ω
 
 Current:
 
 I = V / R
 
-I = 12 / 8.82 ≈ 1.36 A
+I = 12 / 8.33 ≈ 1.44 A
 
 ### Final Answers (Parallel)
 
-- Equivalent Resistance: 8.82 Ω
-- Current: 1.36 A
+- Equivalent Resistance: 8.33 Ω
+- Current: 1.44 A
 
 <img width="480" height="314" alt="image" src="https://github.com/user-attachments/assets/c1af6cf8-409e-4887-a57e-682f5ebd9ab1" />
 
