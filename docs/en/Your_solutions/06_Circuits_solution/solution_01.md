@@ -48,3 +48,6 @@ I = 12 / 8.82 ≈ 1.36 A
 
 - Equivalent Resistance: 8.82 Ω
 - Current: 1.36 A
+
+<img width="630" height="353" alt="image" src="https://github.com/user-attachments/assets/7b0b666d-c65d-490b-916b-ffce7d43ebc9" />
+
