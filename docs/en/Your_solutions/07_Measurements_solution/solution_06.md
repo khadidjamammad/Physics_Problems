@@ -38,7 +38,7 @@ T = 25.4 ± 0.05 °C
 
 25.4 ± 0.05 °C
 
-25.395 - 25.405
+25.35 - 25.45
 
 <img width="1480" height="1062" alt="image" src="https://github.com/user-attachments/assets/303440f8-b5b8-480a-b69b-a10f87c41b0d" />
 
