@@ -1,11 +1,5 @@
 # Standard Deviation of Test Scores
 
-## Objective
-
-Calculate the mean and standard deviation of a set of test scores. Then remove the highest and lowest scores and determine how the mean and standard deviation change.
-
----
-
 ## Given Data
 
 The test scores are:
