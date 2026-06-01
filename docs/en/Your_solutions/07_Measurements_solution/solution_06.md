@@ -1,13 +1,5 @@
 # Instrument Precision Measurement
 
-## Objective
-
-Determine the absolute uncertainty of a temperature measurement obtained from a digital thermometer.
-
-## Problem Statement
-
-A digital thermometer displays a temperature reading of **25.4 °C**. Assuming the uncertainty is equal to half the value of the last displayed digit, determine the absolute uncertainty of the measurement and report the final result.
-
 ---
 
 ## Theory
